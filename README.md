@@ -1,9 +1,11 @@
 
 NER 모델 테스트 기록
 ---
-model_1_name = "Leo97/KoELECTRA-small-v3-modu-ner"
-model_2_name  = "FacebookAI/xlm-roberta-large-finetuned-conll03-english"
-model_3_name  = "jinwoowef/final_crf"
+### model_1_name = "Leo97/KoELECTRA-small-v3-modu-ner"
+
+### model_2_name  = "FacebookAI/xlm-roberta-large-finetuned-conll03-english"
+
+### model_3_name  = "jinwoowef/final_crf"
 
 -----------------------------------
 롯데는 AI 기반의 고객 맞춤형 여행 서비스를 제공하기 위해 대한항공과 함께 새로운 플랫폼을 개발하고 있으며, 이를 통해 여행객들에게 보다 편리한 예약과 서비스를 제공할 계획입니다.
